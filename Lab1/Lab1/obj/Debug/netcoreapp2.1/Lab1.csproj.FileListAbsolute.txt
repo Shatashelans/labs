@@ -1,0 +1,11 @@
+D:\VS_projects\Orders for money\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+D:\VS_projects\Orders for money\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+D:\VS_projects\Orders for money\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+D:\VS_projects\Orders for money\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+D:\VS_projects\Orders for money\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+D:\VS_projects\Orders for money\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+D:\VS_projects\Orders for money\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+D:\VS_projects\Orders for money\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+D:\VS_projects\Orders for money\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+D:\VS_projects\Orders for money\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+D:\VS_projects\Orders for money\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
